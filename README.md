@@ -2,7 +2,7 @@
 Kristine Bernadette Q. Nunez<br>
 CS 173 (Blockchain Technologies)
 
-Contract: KT1Mu46UTaamkBTYcNnSbmyWbaaDmBF8nuxB
+Contract (Ghostnet): KT1Mu46UTaamkBTYcNnSbmyWbaaDmBF8nuxB
 
 ## Additional Functions
 ### 1. change_ticket_cost<br>
